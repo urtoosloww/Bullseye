@@ -1,0 +1,12 @@
+[Unit]
+Description=Bullseye AI Tracking Robot
+
+[Service]
+Type=simple
+WorkingDirectory=%h
+ExecStart=/usr/bin/python3 %h/ai_robot_boot.py
+Restart=on-failure
+RestartSec=3
+
+[Install]
+WantedBy=default.target
