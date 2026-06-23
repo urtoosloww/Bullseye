@@ -1,6 +1,8 @@
 # Bullseye Wiring Reference
 
-## Block Diagram
+![Wiring Diagram](wiring.png)
+
+## Block Diagram (ASCII fallback)
 
 ```
                      ┌──────────────────────────────────────────┐

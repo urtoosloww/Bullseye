@@ -46,8 +46,9 @@ electronics, computer vision, and audio into one build I could actually demo.
 
 ## Wiring
 
-See [wiring.md](wiring.md) for the full ASCII block diagram and a note on common
-ground. A `wiring.png` schematic will be added in a future update.
+![Wiring Diagram](wiring.png)
+
+See [wiring.md](wiring.md) for the full ASCII block diagram and common-ground notes.
 
 ### LCD (ILI9341, SPI) - 8 wires, no touch panel used
 
