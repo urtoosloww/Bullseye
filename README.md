@@ -48,7 +48,7 @@ electronics, computer vision, and audio into one build I could actually demo.
 
 ![Wiring Diagram](wiring.png)
 
-See [wiring.md](wiring.md) for the full ASCII block diagram and common-ground notes.
+See the diagram above for all connections. Common-ground note: if you ever power the servo from an external 5 V supply, bridge its GND to any Pi GND pin or signals will float.
 
 ### LCD (ILI9341, SPI) - 8 wires, no touch panel used
 
